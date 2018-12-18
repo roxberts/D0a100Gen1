@@ -75,4 +75,4 @@ def whatNumIsThis(filePath):
 
 createExamples()
 #whatNumIsThis('images/test.png')
-whatNumIsThis('images/test2.png')
+whatNumIsThis('images/test.png')
